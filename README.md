@@ -14,17 +14,19 @@ Nel documento della task sono specificati i requisiti e le linee guida per la re
 
 ## Tecnologie
 
-Le tecnologie che verranno utilizzate per questo progetto sono da determinare. Saranno scelte in base ai requisiti del progetto e alle preferenze del team di sviluppo.
+Le tecnologie che verranno utilizzate per questo progetto sono da determinare. Saranno scelte in base ai requisiti del progetto e alle preferenze.
 
 ## Come eseguire il progetto
 
 1. Clona questo repository:
 
     ```bash
-    git clone <URL_DEL_REPOSITORY>
+    git clone https://github.com/Luca-Rubino/landing-page-service
+
+2. apri il file index.html usando un browser di ricerca
     ```
 
-2. Installa le dipendenze (una volta che le tecnologie sono state selezionate):
+<!-- 2. Installa le dipendenze (una volta che le tecnologie sono state selezionate):
 
     ```bash
     npm install
@@ -36,7 +38,7 @@ Le tecnologie che verranno utilizzate per questo progetto sono da determinare. S
     npm start
     ```
 
-4. Apri il browser e vai su `http://localhost:3000` per visualizzare la landing page.
+4. Apri il browser e vai su `http://localhost:3000` per visualizzare la landing page. -->
 
 ## Contribuire
 
