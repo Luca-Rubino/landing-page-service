@@ -6,6 +6,27 @@
     padding: 0;
 }
 
+:root {
+    --red: #EC6C5B;
+    --green: #4CC083;
+    --light-blue: #E2F3F0;
+}
+
+.code-circus {
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+};
+
+.headers {
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+}
+
+/* CODECIRCUS
+font Inter font-weight 300
+Headers
+font Inter font-weight 600 */
+
 body {
     background-color: darkgrey;
 }
