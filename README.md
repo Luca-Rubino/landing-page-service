@@ -24,7 +24,7 @@ Le tecnologie che verranno utilizzate per questo progetto sono da determinare. S
     git clone https://github.com/Luca-Rubino/landing-page-service
     ```
 
-2. apri il file index.html usando un browser di ricerca
+2. Apri il file index.html usando un browser di ricerca
 
 <!-- 2. Installa le dipendenze (una volta che le tecnologie sono state selezionate):
 
