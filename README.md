@@ -44,6 +44,6 @@ Le tecnologie che verranno utilizzate per questo progetto sono da determinare. S
 
 Se desideri contribuire a questo progetto, sentiti libero di fare un fork e inviare una pull request con le tue modifiche. Segui le convenzioni di codifica e assicurati che il codice sia ben testato prima di inviare la tua proposta.
 
-## Licenza
+<!-- ## Licenza
 
-Questo progetto è distribuito sotto la licenza MIT. Vedi il file [LICENSE](LICENSE) per maggiori dettagli.
+Questo progetto è distribuito sotto la licenza MIT. Vedi il file [LICENSE](LICENSE) per maggiori dettagli. -->
