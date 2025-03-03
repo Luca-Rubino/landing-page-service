@@ -28,6 +28,12 @@
     font-weight: 600;
 }
 
-body {
-    background-color: darkgrey;
+.pop-up-nav {
+    background-color: var(--red);
+    color: white;
+    text-align: center;
+}
+
+.pop-up-nav a {
+    color: white;
 }
