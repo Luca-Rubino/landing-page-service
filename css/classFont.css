@@ -17,3 +17,8 @@
 .pop-up-nav a {
     color: white;
 }
+
+.list-nav a {
+    text-decoration: none;
+    color: black;
+}

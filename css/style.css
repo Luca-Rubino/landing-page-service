@@ -1,8 +1,8 @@
 /* import */
 
+@import "navStyle.css";
 @import "styleClass.css";
 @import "classFont.css";
-@import "fontFamilyInter.css";
 
 /* reset */
 
@@ -20,6 +20,14 @@
     --light-blue: #E2F3F0;
     --font-family: "Inter", sans-serif;
 }
+
+/* font family "Inter" */
+
+body {
+    font-family: var(--font-family);
+}
+
+/* svg size in nav */
 
 nav svg {
     width: 25px;

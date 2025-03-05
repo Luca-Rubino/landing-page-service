@@ -1,15 +1,23 @@
 /* style class */
 
-.navbar {
-    display: flex;
+.pop-up-nav {
+    padding: 5px 0;
 }
 
-.page-list-nav {
+.navbar {
+    margin: auto 20px;
     display: flex;
-    width: -moz-available;
+    justify-content: space-between;
+}
+
+.list-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     list-style: none;
 }
 
-.page-list-nav ul{
+.sublist-nav{
+    display: none;
     list-style: none;
 }

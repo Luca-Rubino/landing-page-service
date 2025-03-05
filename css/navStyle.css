@@ -1,0 +1,3 @@
+.navbar div:nth-of-type(2) {
+    display: contents;
+}
