@@ -1,0 +1,15 @@
+/* style class */
+
+.navbar {
+    display: flex;
+}
+
+.page-list-nav {
+    display: flex;
+    width: -moz-available;
+    list-style: none;
+}
+
+.page-list-nav ul{
+    list-style: none;
+}

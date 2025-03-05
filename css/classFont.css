@@ -1,0 +1,19 @@
+/* class font */
+
+.code-circus {
+    font-weight: 300;
+}
+
+.headers {
+    font-weight: 600;
+}
+
+.pop-up-nav {
+    background-color: var(--red);
+    color: white;
+    text-align: center;
+}
+
+.pop-up-nav a {
+    color: white;
+}

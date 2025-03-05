@@ -1,3 +1,9 @@
+/* import */
+
+@import "styleClass.css";
+@import "classFont.css";
+@import "fontFamilyInter.css";
+
 /* reset */
 
 * {
@@ -6,6 +12,8 @@
     padding: 0;
 }
 
+/* general */
+
 :root {
     --red: #EC6C5B;
     --green: #4CC083;
@@ -13,27 +21,6 @@
     --font-family: "Inter", sans-serif;
 }
 
-/* font family "Inter" */
-.headers,
-.code-circus {
-    font-family: var(--font-family);
-}
-
-/* class font */
-.code-circus {
-    font-weight: 300;
-}
-
-.headers {
-    font-weight: 600;
-}
-
-.pop-up-nav {
-    background-color: var(--red);
-    color: white;
-    text-align: center;
-}
-
-.pop-up-nav a {
-    color: white;
+nav svg {
+    width: 25px;
 }
