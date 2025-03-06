@@ -1,8 +1,7 @@
 /* import */
 
-@import "navStyle.css";
-@import "styleClass.css";
 @import "classFont.css";
+@import "navStyle.css";
 
 /* reset */
 
@@ -19,6 +18,9 @@
     --green: #4CC083;
     --light-blue: #E2F3F0;
     --font-family: "Inter", sans-serif;
+    --codecircus-font-weight: 300;
+    --headers-font-weight: 600;
+    --font-size-18: 18px;
 }
 
 /* font family "Inter" */
