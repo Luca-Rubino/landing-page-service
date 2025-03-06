@@ -1,3 +1,34 @@
-.navbar div:nth-of-type(2) {
-    display: contents;
+.pop-up-nav {
+    padding: 5px 0;
+}
+
+.navbar {
+    margin: auto 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list-nav {
+    display: flex;
+    list-style: none;
+}
+
+.sublist-nav{
+    display: none;
+}
+
+.sublist-nav {
+    display: none;
+    list-style: none;
+    flex-direction: column;
+    position: relative;
+    top: 0;
+    left: 697px;
+}
+
+.sublist-nav a {
+    color: black;
+    text-decoration: none;
+    font-weight: var(--headers-font-weight);
 }
