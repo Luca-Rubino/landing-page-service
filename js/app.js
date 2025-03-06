@@ -2,9 +2,11 @@ console.log('connected');
 
 
 function activeSublistNav() {
-    if (document.getElementsByClassName('sublist-nav')[0].style.display === 'none') {
-        document.getElementsByClassName('sublist-nav')[0].style.display = 'flex';
+const classSublistNav = document.getElementsByClassName('sublist-nav')[0];
+
+    if (classSublistNav.style.display === 'none') {
+        classSublistNav.style.display = 'flex';
     } else {
-        document.getElementsByClassName('sublist-nav')[0].style.display = 'none';
+        classSublistNav.style.display = 'none';
     }
 }
