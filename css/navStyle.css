@@ -3,9 +3,10 @@
 }
 
 .navbar {
-    margin: auto 20px;
+    padding: 0 20px 0 20px;
     display: flex;
     justify-content: space-between;
+    background-color: #fff;
 }
 
 .navbar div:last-of-type,
