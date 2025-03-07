@@ -27,3 +27,11 @@
     text-decoration: none;
     color: black;
 }
+
+.my-bg-light-blue {
+    background-color: var(--light-blue);
+}
+
+.my-bg-fdeed5 {
+    background-color: var(--my-bg-fdeed5);
+}

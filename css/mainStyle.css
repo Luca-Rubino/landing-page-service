@@ -2,30 +2,40 @@ main {
     padding-top: 68px;
 }
 
-header {
+main > header {
     background-image: url(../images/billboard-bg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: bottom;
 }
 
-header section:first-child {
+main > header section:first-child {
     display: flex;
     justify-content: space-between;
     padding: 0 100px 0 100px;
 }
 
-header section:nth-of-type(2) {
+main > header section:nth-of-type(2) {
     display: flex;
     justify-content: center;
     position: relative;
     top: 18px;
 }
 
-header section:nth-of-type(2) button{
+main > header section:nth-of-type(2) button{
     margin-right: 20px;
 }
 
+/* css class */
+
 .icon svg {
     width: 25px;
+}
+
+.step-corso svg {
+    width: 25px;
+}
+
+.social-icon-teacher svg {
+    width: 15px;
 }
