@@ -8,7 +8,8 @@ Questo progetto riguarda la creazione di una landing page per un circo. La landi
 
 La task da seguire per questo progetto è la seguente:
 
-- **Task:** [Landing Page Circus](https://boolean.notion.site/Landing-Page-Circus-1a877ca323594346be90f0b925de672e)
+- **Task:** [Landing Page Circus]()
+<!-- https://boolean.notion.site/Landing-Page-Circus-1a877ca323594346be90f0b925de672e -->
   
 Nel documento della task sono specificati i requisiti e le linee guida per la realizzazione della landing page. È fondamentale seguire le istruzioni fornite nel documento per completare correttamente il progetto.
 
