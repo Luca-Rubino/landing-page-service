@@ -2,28 +2,44 @@ main {
     padding-top: 68px;
 }
 
-main > header {
+main>header {
     background-image: url(../images/billboard-bg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: bottom;
+    height: 100%;
 }
 
-main > header section:first-child {
+main>header section:first-child {
     display: flex;
     justify-content: space-between;
     padding: 0 100px 0 100px;
 }
 
-main > header section:nth-of-type(2) {
+main>header section:nth-of-type(2) {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     position: relative;
-    top: 18px;
+    margin: auto 7%;
+    top: 91px;
 }
 
-main > header section:nth-of-type(2) button{
-    margin-right: 20px;
+main>header section:nth-of-type(2) button {
+    z-index: 0;
+    width: calc((100% / 4) - 25px);
+    background-color: #fff;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    padding: 69px;
+    color: black;
+    text-transform: uppercase;
+    box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
+main>header section:nth-of-type(2) button > p:first-child{
+    color: var(--red);
+    font-size: 25px;
+    font-weight: 900;
 }
 
 /* css class */

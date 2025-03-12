@@ -33,12 +33,17 @@
 }
 
 .sublist-nav {
+    padding: 15px;
     display: none;
     list-style: none;
     flex-direction: column;
     position: relative;
+    width: fit-content;
     top: 0;
-    left: 697px;
+    left: 44vw;
+    background-color: #fff;
+    border-radius: 25px;
+    border: 2px solid black;
 }
 
 .sublist-nav a {

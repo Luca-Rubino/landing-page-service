@@ -33,8 +33,14 @@ body {
 }
 
 nav {
+    z-index: 10;
     position: fixed;
     width: 100%;
+}
+
+main,
+footer {
+    order: 1;
 }
 
 /* svg size in nav */
